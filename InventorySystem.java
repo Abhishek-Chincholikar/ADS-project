@@ -12,6 +12,10 @@ package inventorySystem;
  * - LINEAR SEARCH (Module 1) for slow O(n) name lookup.
  *
  * This perfectly matches the project requirements.
+ * You might get multiple errors when you paste the code. Just go to (public class InventorySystem extends JFrame implements ActionListener) 
+ * and Hover over ActionListener You will get a option add 'requires java.desktop' to module-info.java click on that and all errors resolved for me ( Eclipse IDE used Latest version)
+ * 
+ * 
  */
 
 import javax.swing.*;
@@ -416,3 +420,4 @@ public class InventorySystem extends JFrame implements ActionListener {
     }
 
 }
+
