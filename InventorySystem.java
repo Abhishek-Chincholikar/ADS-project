@@ -1,5 +1,18 @@
 package inventorySystem;
-
+/*
+ * -----------------------------------------------------------------------------
+ * --- PROJECT 2: Inventory Stock Checker (v3 - Search by Name) ---
+ * -----------------------------------------------------------------------------
+ * This version adds two key features based on your feedback:
+ * 1. A "Search by Name" button that uses LINEAR SEARCH (Module 1).
+ * 2. A more user-friendly UI with helper text.
+ *
+ * This now demonstrates TWO different data structures/algorithms:
+ * - HASH TABLE (Module 2) for fast O(1) SKU lookup.
+ * - LINEAR SEARCH (Module 1) for slow O(n) name lookup.
+ *
+ * This perfectly matches the project requirements.
+ */
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
@@ -401,4 +414,5 @@ public class InventorySystem extends JFrame implements ActionListener {
             }
         });
     }
+
 }
