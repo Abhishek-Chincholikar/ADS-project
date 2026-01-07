@@ -1,0 +1,7 @@
+Algorithm,Time(ns)
+Bubble,26000
+Insertion,12100
+Selection,8000
+Merge,40500
+Quick,12500
+TimSort,834200

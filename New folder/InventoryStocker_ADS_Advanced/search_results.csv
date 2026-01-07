@@ -1,0 +1,5 @@
+Algorithm,Time(ns)
+Linear,3400
+HashMap,1800
+Binary,260000
+TreeMap,12100
